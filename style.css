@@ -1,0 +1,28 @@
+body {
+    background-color: #C4D7B2;
+}
+
+.header {
+    background-color: #A0C49D;
+    margin: -10px;
+    padding: 15px 30px;
+}
+
+.recipe-list {
+    margin: 25px;
+    padding: 10px 10px;
+    border: #E1ECC8 3px solid;
+    width: fit-content;
+}
+
+.recipe {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin: 10px 10px;
+    padding: 50px 25px;
+    border: #E1ECC8 5px dotted;
+    background-color: #a0c49d8c;
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+}
